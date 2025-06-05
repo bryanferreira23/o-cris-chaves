@@ -1,4 +1,4 @@
-import "./style/produtos.css";
+import "./style/Produtos.css";
 
 const produtos = [
   {
