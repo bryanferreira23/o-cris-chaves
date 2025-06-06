@@ -3,27 +3,27 @@ import "./style/Produtos.css";
 const produtos = [
   {
     nome: "Cópias de Chaves",
-    descricao: "Fazemos cópias de todos os tipos de chaves com precisão e rapidez.",
+    descricao: "Cópias de todos os tipos de chaves com precisão e rapidez.",
     imagem: "/images/produtos/chaves.png",
   },
   {
     nome: "Controles de Portão",
-    descricao: "Venda e configuração de controles para diversos modelos de portões automáticos.",
+    descricao: "Cópias de controles para diversos modelos de portões automáticos.",
     imagem: "/images/produtos/controles.png",
   },
   {
     nome: "Tags",
-    descricao: "Tags de acesso para portarias e sistemas de controle modernos.",
+    descricao: "Cópias de tags para portarias e sistemas de controle modernos.",
     imagem: "/images/produtos/tags.png",
   },
   {
     nome: "Fechaduras Mecânicas",
-    descricao: "Modelos variados de fechaduras tradicionais para portas e portões.",
+    descricao: "Vários modelos de fechaduras tradicionais para portas e portões.",
     imagem: "/images/produtos/mecanicas.png",
   },
   {
     nome: "Fechaduras Digitais",
-    descricao: "Tecnologia e segurança com fechaduras digitais para residências e empresas.",
+    descricao: "Tecnologia e segurança com fechaduras digitais para residências e portarias.",
     imagem: "/images/produtos/digitais.png",
   },
   {
@@ -33,7 +33,7 @@ const produtos = [
   },
   {
     nome: "Aberturas",
-    descricao: "Abertura técnica de portas, cofres e veículos com segurança.",
+    descricao: "Aberturas de fechaduras simples e tetras com qualidade e segurança.",
     imagem: "/images/produtos/aberturas.png",
   },
   {
