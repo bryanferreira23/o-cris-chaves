@@ -1,0 +1,50 @@
+.admin-container {
+  padding: 2rem;
+  max-width: 900px;
+  margin: auto;
+}
+
+.admin-form input,
+.admin-form select,
+.admin-form button {
+  display: block;
+  width: 100%;
+  margin-bottom: 1rem;
+  padding: 0.75rem;
+  border-radius: 0.5rem;
+  border: 1px solid #ccc;
+}
+
+.produto-item {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+}
+
+.produto-item img {
+  width: 80px;
+  margin-right: 1rem;
+}
+
+.produto-actions {
+  margin-left: auto;
+}
+
+button.editar {
+  background-color: #ffa500;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  margin-right: 0.5rem;
+}
+
+button.excluir {
+  background-color: #ff3333;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  color: white;
+}

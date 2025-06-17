@@ -1,0 +1,36 @@
+.inicio-container {
+  text-align: center;
+  padding-top: 100px;
+  background-color: #0d202c;
+  color: white;
+}
+
+.botoes {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  margin-top: 50px;
+}
+
+.btn-cliente, .btn-admin {
+  padding: 20px 40px;
+  border-radius: 10px;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1.2rem;
+  transition: 0.3s;
+}
+
+.btn-cliente {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.btn-admin {
+  background-color: #007BFF;
+  color: white;
+}
+
+.btn-cliente:hover, .btn-admin:hover {
+  opacity: 0.8;
+}
